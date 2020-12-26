@@ -1,4 +1,4 @@
-# chat-lab
+# Quick Start
 
 ## Project setup
 ```
